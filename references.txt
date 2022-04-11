@@ -1,0 +1,16 @@
+Links:
+
+How to draw
+Instruction level power consumption
+http://www.jmest.org/wp-content/uploads/JMESTN42352081.pdf
+
+Raspberry Pi power consumption:
+https://www.pidramble.com/wiki/benchmarks/power-consumption
+https://raspi.tv/2018/how-much-power-does-raspberry-pi-3b-use-power-measurements
+
+Find out:
+https://www.elektronik-kompendium.de/sites/raspberry-pi/1911241.html
+
+Usefull cmds:
+Temperature of the chip
+vcgencmd measure_temp
