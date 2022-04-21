@@ -1,8 +1,9 @@
 Links:
 
-How to draw
-Instruction level power consumption
+How to model power consumption
 http://www.jmest.org/wp-content/uploads/JMESTN42352081.pdf
+	Instruction level power consumption
+	https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.51.6929&rep=rep1&type=pdf
 
 Raspberry Pi power consumption:
 https://www.pidramble.com/wiki/benchmarks/power-consumption
@@ -14,3 +15,12 @@ https://www.elektronik-kompendium.de/sites/raspberry-pi/1911241.html
 Usefull cmds:
 Temperature of the chip
 vcgencmd measure_temp
+
+Read cpu avg => https://www.linuxhowtos.org/System/procstat.htm 
+
+CPU frequency => https://serverfault.com/questions/179481/how-to-mearsure-the-average-cpu-frequency-in-linux
+
+Start udp https://www.geeksforgeeks.org/udp-server-client-implementation-c/
+
+
+Add error logs on device
