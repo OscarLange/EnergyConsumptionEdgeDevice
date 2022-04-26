@@ -4,6 +4,7 @@ How to model power consumption
 http://www.jmest.org/wp-content/uploads/JMESTN42352081.pdf
 	Instruction level power consumption
 	https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.51.6929&rep=rep1&type=pdf
+	https://articles.saleae.com/oscilloscopes/how-to-measure-current-with-an-oscilloscope
 
 Raspberry Pi power consumption:
 https://www.pidramble.com/wiki/benchmarks/power-consumption
